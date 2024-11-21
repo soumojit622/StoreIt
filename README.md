@@ -2,7 +2,7 @@
 
 [![StoreIt Banner](https://github.com/soumojit622/StoreIt/blob/master/public/banner.png)](https://store-it-indol.vercel.app/sign-in)
 
-StoreIt is a powerful, feature-packed **file storage and sharing platform** designed to simplify the process of uploading, managing, and sharing your files. Built with **Next.js 15**, **React 19**, and the **Appwrite Node SDK**, it incorporates cutting-edge technologies to provide seamless file management and efficient collaboration.
+**StoreIt** is a powerful, feature-packed **file storage and sharing platform** designed to simplify the process of uploading, managing, and sharing your files. Built with **Next.js 15**, **React 19**, and the **Appwrite Node SDK**, it incorporates cutting-edge technologies to provide seamless file management and efficient collaboration.
 
 > Effortlessly upload, organize, and share your essential files while ensuring data security with **Appwrite**. Enjoy real-time updates on your storage activities. 📂🔒
 
